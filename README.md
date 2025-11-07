@@ -15,6 +15,8 @@ _kursiv text_
 
 *kursiv text2*
 
+`#abc123`
+
 ```html
 <a href="#">Länk</a>
 ```
