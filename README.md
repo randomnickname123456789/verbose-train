@@ -1,8 +1,7 @@
 # Test av git
 
-## Open issues
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/randomnickname123456789/verbose-train)
-
+## Använda tekniker
+![HTML badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Rubrik nivå 2
 ### Rubrik nivå 3
