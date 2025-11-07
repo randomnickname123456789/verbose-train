@@ -1,4 +1,9 @@
 # Test av git
+
+## Open issues
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/randomnickname123456789/verbose-train)
+
+
 ## Rubrik nivå 2
 ### Rubrik nivå 3
 Hej hej
