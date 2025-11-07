@@ -8,7 +8,7 @@ Hej hej
 ## Färgtema
 | Variabel       | Färgkod |
 | -------------- | -------- |
-| $primary-color | #abc123 |
+| $primary-color | `#abc123` |
 
 **fet text**
 _kursiv text_
