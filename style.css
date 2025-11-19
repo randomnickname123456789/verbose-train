@@ -5,4 +5,5 @@ body {
 .sort-by-deadline {
   border-radius: 8px;
   background-color: beige;
+  margin-bottom: 25px;
 }
