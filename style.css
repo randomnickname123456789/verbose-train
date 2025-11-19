@@ -8,3 +8,7 @@ body {
   color: orange;
   font-weight: bold;
 }
+
+.some-selector {
+  margin-left: auto;
+}
