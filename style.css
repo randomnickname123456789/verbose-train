@@ -5,5 +5,15 @@ body {
 .sort-by-deadline {
   border-radius: 8px;
   background-color: beige;
+  color: orange;
+  font-weight: bold;
   margin-bottom: 25px;
+}
+
+.some-selector {
+  margin-left: auto;
+}
+
+.another-change {
+  margin-right: 0;
 }
