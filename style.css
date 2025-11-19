@@ -12,3 +12,7 @@ body {
 .some-selector {
   margin-left: auto;
 }
+
+.another-change {
+  margin-right: 0;
+}
